@@ -17,3 +17,7 @@ body{
 .flexivel{
     display: flex;
 }
+
+.div{
+    padding-right: 320px;
+}
